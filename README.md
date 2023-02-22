@@ -40,4 +40,5 @@ into the data warehouse, extracted useful information by applying different busi
 - one of the Power BI dashboards we designed, which displays the analysis of orders. 
 ![image](https://user-images.githubusercontent.com/82019926/218824598-85d7a28c-3883-4191-974b-938589ad0421.png)
 
--finally you can see on minute video preview on  -> [LINK](https://drive.google.com/file/d/1iZ17S8rBoyA0P6otubjZtH-4-A5NZUnG/view)
+- finally you can see on minute video preview on  -> [LINK](https://drive.google.com/file/d/1iZ17S8rBoyA0P6otubjZtH-4-A5NZUnG/view)
+
