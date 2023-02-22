@@ -39,5 +39,3 @@ into the data warehouse, extracted useful information by applying different busi
  ![image](https://user-images.githubusercontent.com/82019926/218823344-d4b50612-c8e9-4120-8366-62ff6c55582d.png)
 - one of the Power BI dashboards we designed, which displays the analysis of orders. 
 ![image](https://user-images.githubusercontent.com/82019926/218824598-85d7a28c-3883-4191-974b-938589ad0421.png)
-- the final product and it is a website built on the RandomForestRegressor algorithm, it works by outputting the profit for the category after inputting required data. 
-![Screenshot_20230205_025628](https://user-images.githubusercontent.com/82019926/218831248-9ce7e6cf-59aa-47bd-bbe9-16b3f5e59308.png)
